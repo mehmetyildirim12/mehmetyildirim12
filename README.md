@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Mehmet 👋
+
+- 🎓 Freshman Computer Science student at **Bilkent University**.
+- 💻 Currently learning Java and algorithms in **CS101**.
+- 🚀 Interested in technology
 
 <!--
 **mehmetyildirim12/mehmetyildirim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
